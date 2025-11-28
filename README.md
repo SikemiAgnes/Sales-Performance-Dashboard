@@ -2,7 +2,7 @@
 ### Project Overview
 A modern and interactive Sales Performance Dashboard built in Microsoft Excel to compare performance between 2023 and 2024. It summarizes KPIs, trends, and insights for business decision‑making
 ### Dashboard Preview
-<img width="1076" height="595" alt="Sales perfomance Dashboard" src="https://github.com/user-attachments/assets/295f7ba8-eee9-4fc2-ace2-a0a310007695" />
+
 
 
 ### Dashboard Highlights
