@@ -1,6 +1,7 @@
 # Sales-Performance-Dashboard
 ### Project Overview
 A modern and interactive Sales Performance Dashboard built in Microsoft Excel to compare performance between 2023 and 2024. It summarizes KPIs, trends, and insights for business decision‑making
+
 ### Dashboard Highlights
 KPI Cards for Sales, Quantity, Cost & Profit (with YoY %)
 - Monthly Revenue Trend (2023 vs 2024)
